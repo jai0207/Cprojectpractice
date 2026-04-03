@@ -9,10 +9,6 @@ void leftRotate(int arr[], int n){
         }
         arr[n-1] = temp;
 
-       /* if (rotate > 0){
-            leftRotate(arr ,  n ,rotate);
-            rotate--;
-        }*/
 }
 
 int main(){
